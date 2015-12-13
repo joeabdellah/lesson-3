@@ -1,0 +1,70 @@
+body{
+	margin: 50px;
+}
+
+h1{
+	font-style: bold;
+	font-size: 65px;
+    font-weight: bold;
+    margin: 0 auto 30px auto;
+}
+
+p {
+    clear: both;
+    margin-bottom: 20px;
+    color: black;
+    font-size: 17px;
+    line-height: 22px;
+    font-family: "Calibri", Times, sans-serif;
+}
+
+h2 {
+    font-size: 22px;
+    font-weight: bold;
+    margin: 45px 0 12px -20px;
+    color: black;
+}
+
+div {
+  display: inline;
+  font font-style: bold
+}
+.gray{
+	width: 45px;
+    height: 45px;
+    background-color: #D6DBDF;
+    border-style: solid;
+    margin: 0 5px 40px 5px;
+    font-size: 25px;
+    font-family: "Calibri", Times, sans-serif;
+    padding: 30px 0px 0px 30px;
+    color: #6D6C6C;
+    float: left;
+}
+
+.red{
+	width: 45px;
+    height: 45px;
+    background-color: red;
+    border-style: solid;
+    margin: 0 5px 40px 5px;
+    font-size: 25px;
+    font-family: "Calibri", Times, sans-serif;
+    padding: 30px 0px 0px 30px;
+    color: #6D6C6C;
+    float: left;
+}
+
+.google{
+	margin-top: 100px;
+	font-size: 30px;
+	font-family: "Calibri", Times, sans-serif;
+	background-color: rgb(254, 86, 37);
+	border-bottom-color: rgb(75, 75, 75);
+	font-weight: bold;
+
+}
+
+hr{
+	background-color: gray;
+}
